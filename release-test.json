@@ -1,19 +1,19 @@
 {
-    "version": "0.0.17",
+    "version": "0.0.18",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aeneasr/release-test/releases/download/v0.0.17/release-test_0.0.17_Windows_32-bit.zip",
+            "url": "https://github.com/aeneasr/release-test/releases/download/v0.0.18/release-test_0.0.18_Windows_32-bit.zip",
             "bin": [
                 "release-test.exe"
             ],
-            "hash": "2f73d715675cb5d2938632dc70cba7e957a9e5b438afee790fe8fd6817ff6b09"
+            "hash": "b6f3c084861103ef9eb8eaf3bf3179698949b662994730479ba3a1c948a8ee65"
         },
         "64bit": {
-            "url": "https://github.com/aeneasr/release-test/releases/download/v0.0.17/release-test_0.0.17_Windows_64-bit.zip",
+            "url": "https://github.com/aeneasr/release-test/releases/download/v0.0.18/release-test_0.0.18_Windows_64-bit.zip",
             "bin": [
                 "release-test.exe"
             ],
-            "hash": "6ba455b02e2533141e22fdae6de5c2d9092ded0516018b327121c0c4ae135fbd"
+            "hash": "cd577e30397e317aa40cba95708eac2a8a9a105be72f2cc264d503b3bbbe57bd"
         }
     },
     "homepage": "https://www.ory.sh"
